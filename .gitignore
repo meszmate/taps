@@ -5,7 +5,7 @@ bin/
 *.dll
 *.so
 *.dylib
-taps
+/taps
 
 # Test binary
 *.test
